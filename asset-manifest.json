@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/universidad/static/css/main.9255bb63.css",
+    "main.js": "/universidad/static/js/main.13509d67.js",
+    "static/media/recorte_universidad.png": "/universidad/static/media/recorte_universidad.337c069a3e8026c3caef.png",
+    "static/media/dia-de-la-mujer.jpg": "/universidad/static/media/dia-de-la-mujer.1d736ea53960be5d6938.jpg",
+    "static/media/personas-paradas.jpg": "/universidad/static/media/personas-paradas.9966220d6a2548227156.jpg",
+    "static/media/medicos-de-pie.jpg": "/universidad/static/media/medicos-de-pie.36ad859298aa4c714312.jpg",
+    "static/media/bastion-universitario.jpg": "/universidad/static/media/bastion-universitario.27097b96d1ffb72e9149.jpg",
+    "static/media/banderas-y-fidel.jpg": "/universidad/static/media/banderas-y-fidel.0d976597c3ac2201ea12.jpg",
+    "static/media/libros-para-estudiantes.jpg": "/universidad/static/media/libros-para-estudiantes.8c98d848a3107067210b.jpg",
+    "static/media/barco.jpg": "/universidad/static/media/barco.e6a7254186b604fc96e2.jpg",
+    "static/media/tres-personas.jpg": "/universidad/static/media/tres-personas.288cedb3a94a43c0aae5.jpg",
+    "static/media/personas-en-el-hall.jpg": "/universidad/static/media/personas-en-el-hall.36d56f2bc708d3f2ef7d.jpg",
+    "static/media/corazon.jpg": "/universidad/static/media/corazon.2b3888c5beb5e8c7c8a1.jpg",
+    "static/media/personas-celebrando.jpg": "/universidad/static/media/personas-celebrando.d2f9b68be1ddf4dbdf1a.jpg",
+    "static/media/grupo-de-personas.jpg": "/universidad/static/media/grupo-de-personas.c165501a0be372a558aa.jpg",
+    "static/media/telefono.jpg": "/universidad/static/media/telefono.96c3a5bd10cef608ff6b.jpg",
+    "static/media/en-una-mesa.jpg": "/universidad/static/media/en-una-mesa.ce840c82c8b7274de5e8.jpg",
+    "static/media/medicos-en-jardin.jpg": "/universidad/static/media/medicos-en-jardin.2c0e0ae2a30207e3985b.jpg",
+    "static/media/comedor.jpg": "/universidad/static/media/comedor.030d6ff815618b70dd7d.jpg",
+    "static/media/coronavirus-cuba.jpeg": "/universidad/static/media/coronavirus-cuba.15fbd91bb402593fd1a9.jpeg",
+    "static/media/estrella.jpg": "/universidad/static/media/estrella.2e5842aec32492343060.jpg",
+    "index.html": "/universidad/index.html",
+    "main.9255bb63.css.map": "/universidad/static/css/main.9255bb63.css.map",
+    "main.13509d67.js.map": "/universidad/static/js/main.13509d67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9255bb63.css",
+    "static/js/main.13509d67.js"
+  ]
+}
